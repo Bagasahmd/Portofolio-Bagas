@@ -1,8 +1,9 @@
-Hello 
-My Name Bagas Ahmad
-I am web designer
-I am web developer
-I am love coding and problem solving
-
+Hello👋 <br>
+My Name Bagas Ahmad <br>
+I am web designer <br>
+I am web developer <br>
+I am love coding and problem solving <br>
+---------------------------------------------------------------------------
 This is My Portofolio Website
-bagasahmad.netlify.com
+https://bagasahmad.netlify.app/
+
